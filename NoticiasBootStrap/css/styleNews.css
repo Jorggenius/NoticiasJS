@@ -1,0 +1,33 @@
+#encabesado{
+    height: 200px;
+    display: flex;
+    align-items: center;
+   
+}
+#image-section{
+    display: flex;
+    justify-content: center; /* Centrar horizontalmente */
+    align-items: center; /* Centrar verticalmente */
+    height: 70vh; /* Ajusta según sea necesario */
+}
+
+#image{
+    width: 600px; ;
+}
+
+#banner1{
+    width: 100%;
+}
+
+#fecha{
+    text-align: right;
+}
+#menu{
+    display: flex;
+    justify-content: center; /* Centrar horizontalmente */
+    align-items: center;
+    
+}
+#area-comentareos{
+    width: 600px;
+}

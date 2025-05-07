@@ -1,0 +1,25 @@
+#row2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+#menu{
+    border: 2px solid black;
+    margin-top: 20px;
+    display: flex;
+    
+}
+.img-thumbnail{
+    width: 600px;
+    height: 300px;
+}
+#image {
+    text-align: center;
+}
+
+#imagenNoticia{
+
+    width: 300px;
+    height: 150px;
+}
